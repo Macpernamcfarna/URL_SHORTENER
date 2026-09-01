@@ -40,13 +40,13 @@ mongodb://localhost/naWeCulture
 ### 1. Clone the repository
 
 ```bash
-git clone URL_SHORTENER
+git clone <your-repository-url>
 ```
 
 ### 2. Open the project folder
 
 ```bash
-cd URL_SHORTENER
+cd URL
 ```
 
 ### 3. Install dependencies
