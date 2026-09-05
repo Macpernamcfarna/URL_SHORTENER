@@ -3,7 +3,7 @@ const ShortUrl = require("./models/shortUrl");
 const mongoose = require("mongoose");
 const app = express();
 const PORT = process.env.PORT || 3000;
-const MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/naWeCulture";
+const MONGODB_URI = process.env.MONGODB_URI || ""mongodb+srv://macpernamcfarna: macpernamcfarna@cluster0.gw4t92o.mongodb.net/?appName=Cluster0"";
 
 app.set("view engine", "ejs");
 app.use(express.json());
