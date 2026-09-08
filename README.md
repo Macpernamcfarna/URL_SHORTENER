@@ -24,10 +24,8 @@ A simple and lightweight URL shortener built with **Node.js, Express, MongoDB, M
 Before running the application, make sure you have:
 
 * Node.js installed
-* MongoDB installed and running
 * npm installed
-
-The application connects to MongoDB using:
+* A MongoDB database (local MongoDB or MongoDB Atlas)
 
 ```text
 mongodb://localhost/naWeCulture
